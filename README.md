@@ -1,6 +1,6 @@
 # Transformers Under the Hood
 
-A set of small, hands-on exercises exploring what Hugging Face's `pipeline()` does internally — built while learning the `transformers` library as part of a self-directed AI engineering roadmap.
+A set of small, hands-on exercises exploring what Hugging Face's `pipeline()` does internally — built while learning the `transformers` library as part of a AI engineering roadmap.
 
 ## What's inside
 
